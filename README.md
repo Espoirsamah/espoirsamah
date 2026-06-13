@@ -68,11 +68,11 @@ My goal is to build software that solves real business problems, improves produc
 📌 Current Focus
 
 
-AI-powered SaaS platforms
-Crypto exchange architecture
-FastAPI backend systems
-Flutter mobile applications
-Cloud deployment and automation
+AI-powered SaaS platforms, 
+Crypto exchange architecture, 
+FastAPI backend systems, 
+Flutter mobile applications, 
+Cloud deployment and automation, 
 Security-focused web platforms
 
 

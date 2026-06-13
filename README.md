@@ -20,18 +20,18 @@ I specialize in building modern SaaS platforms, fintech systems, e-commerce solu
 
 🧠 Core Expertise
 
-AI Software Architecture
-Backend Engineering
-FastAPI / Python
-Flutter Mobile Development
-Vue.js / Frontend Engineering
-PostgreSQL / MySQL Database Design
-Cloud Deployment
-API Integration
-SaaS Product Development
-FinTech & Crypto Systems
-Healthcare Software
-E-commerce Platforms
+AI Software Architecture, 
+Backend Engineering, 
+FastAPI / Python, 
+Flutter Mobile Development, 
+Vue.js / Frontend Engineering, 
+PostgreSQL / MySQL Database Design, 
+Cloud Deployment, 
+API Integration, 
+SaaS Product Development, 
+FinTech & Crypto Systems, 
+Healthcare Software, 
+E-commerce Platforms, 
 Automation & AI Agents
 
 🛠️ Tech Stack
